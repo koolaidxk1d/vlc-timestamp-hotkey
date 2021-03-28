@@ -14,3 +14,8 @@ An AutoHotKey script for quickly outputting the current time of a VLC video into
 
 *F8 key will append the current time to a file named according to your video (e.g. 'cats.mp4' would post to 'cats.mp4.txt')
 
+
+===Versions===
+
+"output" - this script outputs the timestamp to a named file
+"typed" - this script sends the timestamp into simulated keystrokes into the active window
