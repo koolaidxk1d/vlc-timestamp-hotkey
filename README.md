@@ -12,5 +12,5 @@ An AutoHotKey script for quickly outputting the current time of a VLC video into
 
 *Run vlc_getframe.ahk
 
-*F8 key will append the current time to a file named according to your video (e.g. 'Begala Nightmare.mp4' would post to 'Begala Nightmare.mp4.txt')
+*F8 key will append the current time to a file named according to your video (e.g. 'cats.mp4' would post to 'cats.mp4.txt')
 
